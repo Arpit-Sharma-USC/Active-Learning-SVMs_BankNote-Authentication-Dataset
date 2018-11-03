@@ -28,3 +28,8 @@
     o	I then put this in a dictionary and sorted it preserving their index (as the indices will help me pick the datapoints from the remaining train_buffer).
 
     o	These 10 are the closest datapoints to the hyperplane, thus they were added to the training set and removed from the buffer for the next iteration.
+    
+•	Monte Carlo Simulation
+  
+    o	In order to perform the Monte Carlo simulation of the data, both active and passive learning strategies were experimented on the data.
+
